@@ -20,15 +20,15 @@ const Projects = () => (
             <CardInfo className="card-info">{p.description}</CardInfo>
             <div>
               <TitleContent>Stack</TitleContent>
-              <TagList>
+              <TagList className='taglist'>
                 {p.tags.map((t, i) => {
-                  return <Tag key={i}>{t}</Tag>;
+                  return <Tag className='tag' key={i}>{t}</Tag>;
                 })}
               </TagList>
             </div>
             <UtilityList>
-              <ExternalLinks href={p.visit}>Code</ExternalLinks>
-              <ExternalLinks href={p.source}>Source</ExternalLinks>
+              <ExternalLinks href={p.visit}>Live project</ExternalLinks>
+              <ExternalLinks href={p.source}>Source code</ExternalLinks>
             </UtilityList>
           </BlogCard>
         );
