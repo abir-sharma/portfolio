@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Meme uploader',
     description: "A complete blockchain powered project where people can post memes and other people can view them as well as can donate ethereum to meme creators.",
-      image: '/images/3.jpg',
+      image: '/images/3.png',
       tags: ['Bootstrap','Solidity','Ethereum','Ipfs','Remix IDE'],
     source: 'https://github.com/abir-sharma/meme',
     visit: 'https://memeuploader12.herokuapp.com/',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Shopping website',
     description: "A complete full stack project where people can shop without login and register while admin can create, edit and delete products in shop with payment through card functionallity.",
-    image: '/images/4.jpg',
+    image: '/images/5.png',
     tags: ['Next js','Html','Css','Mongo DB','Stripe','Cloudinary','Redux','Postman'],
     source: 'https://github.com/abir-sharma/Next-js',
     visit: 'https://tshirt2100.vercel.app/',
@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'Coding Monk',
     description: "An android + Ios app where people can learn web development,app development etc courses.",
-    image: '/images/4.jpg',
+    image: '/images/6.png',
     tags: ['React native','Redux','Mockend'],
     source: 'https://github.com/abir-sharma/andriodApp',
     visit: 'https://expo.dev/@abirsharma/coding-monk',
@@ -47,7 +47,7 @@ export const projects = [
   {
     title: 'Loan predictor',
     description: "Made a Machine learning model which can predict whether loan of a particular person will approve or not according to a dataset and a given input with an accuracy of over 95%.",
-    image: '/images/4.jpg',
+    image: '/images/4.png',
     tags: ['Pandas','Seaborn','Sckikit learn'],
     source: 'https://github.com/abir-sharma/loan-prediction',
     visit: 'https://github.com/abir-sharma/loan-prediction',
@@ -56,7 +56,7 @@ export const projects = [
   {
     title: 'Drawing website',
     description: "Complete full stack project where people can register login and find artists for work and artists can also register themselves their to get work.",
-    image: '/images/4.jpg',
+    image: '/images/7.png',
     tags: ['Bootstrap','Django','MySql','AWS'],
     source: 'https://github.com/abir-sharma/Drawing-website',
     visit: 'https://drwaingwallah99.herokuapp.com/',
