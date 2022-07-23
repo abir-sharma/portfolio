@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Blogging website',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "Complete MERN stack project where different people can register,login and write blogs with edit profile,change password, reset password, delete account, edit blog and delete blog functionallity. ",
       image: '/images/1.png',
       tags: ['React js','Css','Mongo DB','Express','Node','Cloudinary','Redux','Postman'],
     source: 'https://github.com/abir-sharma/mern',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    description:"Complete full stack project where different people can register, login and shop different items with edit profile, change password, reset password, add to cart and check order status functionallity",
     image: '/images/2.png',
     tags: ['Html','Css','Django','MySql','AWS','Postman'],
     source: 'https://github.com/abir-sharma/shop',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Meme uploader',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "A complete blockchain powered project where people can post memes and other people can view them as well as can donate ethereum to meme creators.",
       image: '/images/3.jpg',
       tags: ['Bootstrap','Solidity','Ethereum','Ipfs','Remix IDE'],
     source: 'https://github.com/abir-sharma/meme',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Shopping website',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "A complete full stack project where people can shop without login and register while admin can create, edit and delete products in shop with payment through card functionallity.",
     image: '/images/4.jpg',
     tags: ['Next js','Html','Css','Mongo DB','Stripe','Cloudinary','Redux','Postman'],
     source: 'https://github.com/abir-sharma/Next-js',
@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: 'Coding Monk',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "An android + Ios app where people can learn web development,app development etc courses.",
     image: '/images/4.jpg',
     tags: ['React native','Redux','Mockend'],
     source: 'https://github.com/abir-sharma/andriodApp',
@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     title: 'Loan predictor',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "Made a Machine learning model which can predict whether loan of a particular person will approve or not according to a dataset and a given input with an accuracy of over 95%.",
     image: '/images/4.jpg',
     tags: ['Pandas','Seaborn','Sckikit learn'],
     source: 'https://github.com/abir-sharma/loan-prediction',
@@ -55,9 +55,9 @@ export const projects = [
   },
   {
     title: 'Drawing website',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "Complete full stack project where people can register login and find artists for work and artists can also register themselves their to get work.",
     image: '/images/4.jpg',
-    tags: ['Html','Css','Django','MySql','AWS'],
+    tags: ['Bootstrap','Django','MySql','AWS'],
     source: 'https://github.com/abir-sharma/Drawing-website',
     visit: 'https://drwaingwallah99.herokuapp.com/',
     id: 6,

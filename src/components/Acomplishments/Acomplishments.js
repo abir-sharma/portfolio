@@ -4,8 +4,7 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 75, text: 'DSA problems solved on leetcode'},
-  { number: 35, text: 'DSA problems solved on GFG', },
+  { number: 100, text: 'DSA problems solved on leetcode and GFG'},
   // { number: 5, text: 'Github Stars', },
   { number: 10, text: 'Projects completed by myself', },
 ];
